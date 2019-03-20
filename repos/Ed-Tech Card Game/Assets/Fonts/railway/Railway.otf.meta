@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e7acc936c72bd9c43843963bd1a6e489
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Railway
+  fontNames:
+  - Railway
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3df86d55eba5e8b42add31f7d4c9c0cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+  <assembly fullname="LaeringslivCore" preserve="all"/>
+  <assembly fullname="netstandard">
+    <type fullname="System.Collections.Generic.List" preserve="all"/>
+    <type fullname="System.Collections.Generic.IList" preserve="all"/>
+  </assembly>
+  <assembly fullname="mscorlib">
+    <type fullname="System.Collections.Generic.List" preserve="all"/>
+    <type fullname="System.Collections.Generic.IList" preserve="all"/>
+  </assembly>
+</linker>
